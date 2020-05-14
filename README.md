@@ -1,4 +1,4 @@
-# Multiple stopwatches
+# Multiple Stop Watches
 
 ## Demo GIF
 
